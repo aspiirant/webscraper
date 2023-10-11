@@ -4,8 +4,8 @@ Dit is een simpele webscraper die data saved in een csv file.
 
 ## Installatie
 
-1. Clone the repository: `git clone https://github.com/your-username/web-scraper.git`
-2. Install the required packages: `pip install -r requirements.txt`
+1. Clone de repository: `git clone https://github.com/your-username/web-scraper.git`
+2. Install de required packages: `pip install -r requirements.txt`
 
 ## Gebruiksaanwijzingen
 
